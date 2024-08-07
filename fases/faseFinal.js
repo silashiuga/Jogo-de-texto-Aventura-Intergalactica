@@ -7,7 +7,7 @@ module.exports = (naveVanguarda) => {
   console.log();
   console.log('Finalmente chegamos a Galáxia Centaurus, agora só ir ao planeta Astra e coletar o Vortex, pensou o capitão.');
   console.log('Quando estava próximo a Astra, uma super nave Ragnor surgiu na frente de Vanguarda.');
-  console.log('O comandante da Ragnor advertiu que destruiria Vanguarda, pelo prejuízo que ela tinha feito em combate.');
+  console.log('O comandante Ragnor advertiu que destruiria Vanguarda, pelo prejuízo que ela tinha feito em combate.');
   console.log();
   console.log('Então a luta se iniciou.')
 
@@ -21,8 +21,8 @@ module.exports = (naveVanguarda) => {
 
     console.log();
     console.log('A missão foi um sucesso, Vanguarda foi a Astra e coletou o Vortex.');
-    console.log('A viagem para casa foi mais tranquilo, sem os Ragnors incomodando.');
-    console.log('Ao retornarem a Terra o reator foi contruído, filtrando grandes quantidades de água poluída em água potável.');
+    console.log('A viagem para casa foi mais tranquila, sem os Ragnors incomodando.');
+    console.log('Ao retornarem a Terra o reator foi construído, filtrando grandes quantidades de água poluída em água potável.');
 
     console.log();
     console.log('Jogo desenvolvido por Silas Hiuga.');

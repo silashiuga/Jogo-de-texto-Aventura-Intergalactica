@@ -8,7 +8,7 @@ const final = require('./fases/faseFinal');
 
 
 // Início do jogo
-console.log('------------------ Bem vindo ao SPACE ADVENTURE ------------------');
+console.log('------------------ Bem vindo ao Jogo Aventura Intergaláctica ------------------');
 console.log();
 
 // Contextualização da história
